@@ -1,3 +1,7 @@
+## Note 
+
+Before executing the scripts, make sure you've installed package `sqldf` and that you copied the `household_power_consumption.txt` file into the root directory of this repository.
+
 ## Introduction
 
 This assignment uses data from
